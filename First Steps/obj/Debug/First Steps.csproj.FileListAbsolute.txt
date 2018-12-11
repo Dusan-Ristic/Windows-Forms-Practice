@@ -1,0 +1,10 @@
+C:\Users\Smith\source\repos\Public\Windows-Forms-Practice\First Steps\bin\Debug\First Steps.exe.config
+C:\Users\Smith\source\repos\Public\Windows-Forms-Practice\First Steps\bin\Debug\First Steps.exe
+C:\Users\Smith\source\repos\Public\Windows-Forms-Practice\First Steps\bin\Debug\First Steps.pdb
+C:\Users\Smith\source\repos\Public\Windows-Forms-Practice\First Steps\obj\Debug\First Steps.csprojResolveAssemblyReference.cache
+C:\Users\Smith\source\repos\Public\Windows-Forms-Practice\First Steps\obj\Debug\First_Steps.Form1.resources
+C:\Users\Smith\source\repos\Public\Windows-Forms-Practice\First Steps\obj\Debug\First_Steps.Properties.Resources.resources
+C:\Users\Smith\source\repos\Public\Windows-Forms-Practice\First Steps\obj\Debug\First Steps.csproj.GenerateResource.cache
+C:\Users\Smith\source\repos\Public\Windows-Forms-Practice\First Steps\obj\Debug\First Steps.csproj.CoreCompileInputs.cache
+C:\Users\Smith\source\repos\Public\Windows-Forms-Practice\First Steps\obj\Debug\First Steps.exe
+C:\Users\Smith\source\repos\Public\Windows-Forms-Practice\First Steps\obj\Debug\First Steps.pdb
